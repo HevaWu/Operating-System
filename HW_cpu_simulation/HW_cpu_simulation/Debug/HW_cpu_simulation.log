@@ -1,0 +1,213 @@
+﻿Build started 2015/11/3 21:56:02.
+     1>Project "G:\matierial\cs\CS570\exercise\HW_cpu_simulation\HW_cpu_simulation\HW_cpu_simulation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt simulation.cpp
+         simulation.cpp
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(61): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(74): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(110): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(124): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(134): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(146): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(158): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(170): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(184): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(198): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(199): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(200): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(249): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(257): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(267): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(294): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(295): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(296): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(297): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\cpu_run.h(298): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(40): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(41): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(58): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(60): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(65): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(81): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(82): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(83): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(95): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(96): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(97): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(98): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(101): warning C4553: '==': operator has no effect; did you intend '='?
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(102): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(103): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(112): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(116): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(117): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(119): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(121): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(122): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(123): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(126): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(127): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(130): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(132): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(134): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(135): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(136): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(139): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(140): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(148): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(162): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(164): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(167): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(170): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(173): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(175): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(178): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(181): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(186): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(189): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(205): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(210): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(226): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(245): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(267): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(328): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(329): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(347): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(349): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(354): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(372): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(373): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(374): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(386): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(387): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(388): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(389): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(390): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(392): warning C4553: '==': operator has no effect; did you intend '='?
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(393): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(394): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(400): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(407): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(411): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(412): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(414): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(416): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(418): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(419): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(420): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(423): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(424): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(428): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(430): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(432): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(436): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(439): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(440): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(444): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(448): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(450): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(452): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(454): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(455): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(456): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(459): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(460): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(464): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(466): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(468): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(472): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(475): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(476): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(480): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(486): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(489): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(504): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(506): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(509): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(512): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(515): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(517): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(520): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(523): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(528): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(531): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(547): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(552): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(568): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(587): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(609): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(670): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(671): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(688): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(690): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(695): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(710): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(711): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(712): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(724): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(725): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(726): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(727): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(728): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(730): warning C4553: '==': operator has no effect; did you intend '='?
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(731): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(732): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(741): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(745): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(746): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(748): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(750): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(752): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(753): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(754): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(757): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(758): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(761): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(763): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(767): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(770): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(771): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(777): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(779): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(781): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(783): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(784): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(785): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(788): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(789): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(793): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(795): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(799): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(802): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(803): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(810): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(813): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(828): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(830): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(833): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(836): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(839): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(841): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(844): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(847): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(852): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(855): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(874): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(879): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(895): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(919): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(960): warning C4018: '<': signed/unsigned mismatch
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(972): warning C4018: '<': signed/unsigned mismatch
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(983): warning C4018: '<': signed/unsigned mismatch
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(996): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_cpu_simulation\hw_cpu_simulation\schedule_algorithm.h(977): warning C4715: 'find_job': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\matierial\cs\CS570\exercise\HW_cpu_simulation\Debug\HW_cpu_simulation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\matierial\cs\CS570\exercise\HW_cpu_simulation\Debug\HW_cpu_simulation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\matierial\cs\CS570\exercise\HW_cpu_simulation\Debug\HW_cpu_simulation.lib" /MACHINE:X86 Debug\simulation.obj
+         HW_cpu_simulation.vcxproj -> G:\matierial\cs\CS570\exercise\HW_cpu_simulation\Debug\HW_cpu_simulation.exe
+     1>Done Building Project "G:\matierial\cs\CS570\exercise\HW_cpu_simulation\HW_cpu_simulation\HW_cpu_simulation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.93
