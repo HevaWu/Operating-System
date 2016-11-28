@@ -1,0 +1,16 @@
+﻿Build started 2015/10/6 18:22:07.
+     1>Project "G:\matierial\cs\CS570\exercise\busstop_mutex_homework\busstop_mutex_homework\busstop_mutex_homework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\matierial\cs\cs570\exercise\busstop_mutex_homework\busstop_mutex_homework\source.cpp(326): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\busstop_mutex_homework\busstop_mutex_homework\source.cpp(328): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\busstop_mutex_homework\busstop_mutex_homework\source.cpp(362): warning C4244: 'initializing': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\matierial\cs\CS570\exercise\busstop_mutex_homework\Debug\busstop_mutex_homework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\matierial\cs\CS570\exercise\busstop_mutex_homework\Debug\busstop_mutex_homework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\matierial\cs\CS570\exercise\busstop_mutex_homework\Debug\busstop_mutex_homework.lib" /MACHINE:X86 Debug\Source.obj
+         busstop_mutex_homework.vcxproj -> G:\matierial\cs\CS570\exercise\busstop_mutex_homework\Debug\busstop_mutex_homework.exe
+     1>Done Building Project "G:\matierial\cs\CS570\exercise\busstop_mutex_homework\busstop_mutex_homework\busstop_mutex_homework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.65
