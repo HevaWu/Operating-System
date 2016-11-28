@@ -1,0 +1,114 @@
+﻿Build started 2015/11/1 11:47:57.
+     1>Project "G:\matierial\cs\CS570\exercise\HW_schedule_algorithm\HW_schedule_algorithm\HW_schedule_algorithm.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(52): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(64): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(76): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(88): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(100): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(113): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(114): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(115): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(176): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(186): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(187): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(188): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(221): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(232): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(233): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(234): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(263): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(264): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(265): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(316): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(324): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(335): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(336): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(337): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(339): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(342): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(342): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(343): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(344): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(346): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(384): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(385): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(386): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(436): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(444): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(455): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(460): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(461): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(462): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(464): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(467): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(467): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(468): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(469): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(471): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(522): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(523): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(524): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(574): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(582): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(593): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(598): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(599): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(600): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(602): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(605): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(605): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(606): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(607): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(609): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(648): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(649): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(650): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(697): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(705): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(736): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(744): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(756): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(758): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(760): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(765): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(766): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(767): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(773): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(778): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(783): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(784): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(785): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(791): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(794): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(796): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(798): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(800): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(802): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(803): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(804): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(805): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(807): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(808): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(812): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(812): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(816): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(818): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(820): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(821): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(822): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(823): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(825): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(826): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(830): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+     1>g:\matierial\cs\cs570\exercise\hw_schedule_algorithm\hw_schedule_algorithm\cpu_schd.h(830): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\matierial\cs\CS570\exercise\HW_schedule_algorithm\Debug\HW_schedule_algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\matierial\cs\CS570\exercise\HW_schedule_algorithm\Debug\HW_schedule_algorithm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\matierial\cs\CS570\exercise\HW_schedule_algorithm\Debug\HW_schedule_algorithm.lib" /MACHINE:X86 Debug\Source.obj
+         HW_schedule_algorithm.vcxproj -> G:\matierial\cs\CS570\exercise\HW_schedule_algorithm\Debug\HW_schedule_algorithm.exe
+     1>Done Building Project "G:\matierial\cs\CS570\exercise\HW_schedule_algorithm\HW_schedule_algorithm\HW_schedule_algorithm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
